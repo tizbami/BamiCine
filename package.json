@@ -9,17 +9,28 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "@tailwindcss/vite": "^4.0.0",
     "axios": "^1.7.9",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.9.3"
+    "mongoose": "^8.9.3",
+    "react-router-dom": "^7.1.3"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
-  }
+    "nodemon": "^3.1.9",
+    "tailwindcss": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tizbami/BamiCine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tizbami/BamiCine/issues"
+  },
+  "homepage": "https://github.com/tizbami/BamiCine#readme",
+  "description": ""
 }
